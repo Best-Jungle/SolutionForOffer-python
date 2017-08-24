@@ -1,0 +1,39 @@
+# from queue import Queue
+# from stack import Stack
+# class TreeNode(object):
+#     """docstring for TreeNode"""
+#     def __init__(self, value = None,left = None,right = None):
+#         self.value = value
+#         self.left = left
+#         self.right = right
+
+# def preTraverse(node):
+#     if node == None:
+#         return
+#     print(node.value)
+#     preTraverse(node.left)
+#     preTraverse(node.right)
+# def wildTraverse(node):
+#     # if node.left == None:
+#     #     return
+#     # print(node.value)
+#     # print(node.left.value)
+#     # print(node.right.value)
+#     # wildTraverse(node.left)
+#     # wildTraverse(node.right)
+#     s = Queue(20)
+#     s.enqueue(node.value)
+        
+
+# node = TreeNode('D',TreeNode('B',TreeNode('A'),TreeNode('C')),TreeNode('E',right=TreeNode('G',TreeNode('F'))))
+# wildTraverse(node)
+        
+import os   
+os.system('say hello')
+s1 = os.system('echo hello')
+s3 = 'why'
+print(type(s1))
+if s1=='hello':
+    print("pl")
+# print(s2)
+pr
