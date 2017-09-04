@@ -25,5 +25,5 @@ class Solution(object):
 nums1 = [1, 2, 3, 4, 5, 6,0,0,0,0]
 nums2 = [7, 8, 9, 10]
 a = Solution()
-a.merge(nums1, 6, nums2, 4)
+a.merge(nums1, 6, nu∑ms2, 4)
 print(nums1[0:2])
